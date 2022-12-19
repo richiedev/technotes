@@ -1,3 +1,11 @@
+# 2 default users for the app....
+Username : Hank
+Password : 1234
+
+Username : Joe
+Password : 1234567
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
